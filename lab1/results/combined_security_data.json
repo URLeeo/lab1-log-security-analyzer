@@ -1,0 +1,14 @@
+{
+    "192.168.1.11": {
+        "description": "Suspicious activity detected",
+        "failed_attempts": 4
+    },
+    "10.0.0.50": {
+        "description": "Known malicious IP",
+        "failed_attempts": 0
+    },
+    "172.16.0.5": {
+        "description": "Brute-force attack reported",
+        "failed_attempts": 0
+    }
+}
